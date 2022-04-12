@@ -13,6 +13,6 @@ the Python language.
 
 ### Repo
 * Precommit Hooks for the following:
-** flake8 - Python linting
-** Black - Python file formatting
-** hadolint - Docker file liniting
+  ** flake8 - Python linting
+  ** Black - Python file formatting
+  ** hadolint - Docker file liniting
